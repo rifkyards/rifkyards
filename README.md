@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I`m Rifky Ardiansyah, a junior high school student.
+I'm Rifky Ardiansyah, a junior high school student.
